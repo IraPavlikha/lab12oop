@@ -1,0 +1,15 @@
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/bin/Debug/net8.0/lab12
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/bin/Debug/net8.0/lab12.deps.json
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/bin/Debug/net8.0/lab12.runtimeconfig.json
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/bin/Debug/net8.0/lab12.dll
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/bin/Debug/net8.0/lab12.pdb
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.AssemblyInfoInputs.cache
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.AssemblyInfo.cs
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.csproj.CoreCompileInputs.cache
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.sourcelink.json
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.dll
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/refint/lab12.dll
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.pdb
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/lab12.genruntimeconfig.cache
+/Users/irapavlikha/Desktop/OOP/lab12/lab12/obj/Debug/net8.0/ref/lab12.dll
